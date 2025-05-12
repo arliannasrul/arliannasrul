@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🌱  I’m currently learning **Next JS** Framework
 <!--
 **arliannasrul/arliannasrul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
