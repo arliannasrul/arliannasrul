@@ -24,10 +24,6 @@
   </a>
 </div>
 
-###
-<div align="center">
-  <img src="https://media1.tenor.com/m/-V8i8B2ownEAAAAd/cat-laptop.gif" alt="Cat" />
-</div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/arliannasrul/arliannasrul/output/snake.svg" alt="Snake animation" />
