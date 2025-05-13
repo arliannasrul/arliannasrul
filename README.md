@@ -1,3 +1,5 @@
+
+
 ## Hey there!👋
 ![Arlian Nasrul](img/github-header-image.png)
 - 🌱  I’m currently learning **Next JS** Framework
@@ -10,19 +12,32 @@
 
 
 #### Stay Connect With Me!
-![https://instagram.com/arliannasrul](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/arlian-nasrul-ramadhani-66139a2a5/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://arliannasrul.vercel.app](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white) ![https://tiktok.com/@arliannasrul](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+<div align="left">
+  <a href="https://www.linkedin.com/in/arlian-nasrul-ramadhani-66139a2a5/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/arliannasrul" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/465287665227530240" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
+###
+<div align="center">
+  <img src="https://media1.tenor.com/m/-V8i8B2ownEAAAAd/cat-laptop.gif" alt="Cat" />
+</div>
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/arliannasrul/arliannasrul/output/snake.svg" alt="Snake animation" />
-
+</div>
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ihraqmz6nkhcxhlgzl5hpigwoy&unique={true|12|on|yes}" alt="Spotify" />
 </div>
 
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/-V8i8B2ownEAAAAd/cat-laptop.gif" alt="Cat" />
-</div>
 
 
 
